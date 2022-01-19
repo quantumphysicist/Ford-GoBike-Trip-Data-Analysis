@@ -15,16 +15,16 @@ The following files are included:
   
 ## Dataset
 
-The data consisted of the attributes of 183,412 bike rides made in February of 2019 in the San Francisco Bay area. These attributes included the start and end stations, the start and end times, the type of user, and the duration of the bike ride. 8531 data points were removed from the analysis because of missing values and incorrect ages. The remaining 174,881 bike rides were analysed.
+The data consisted of the attributes of 183,412 bike rides made in February of 2019 in the San Francisco Bay area. These attributes included the start and end stations, the start and end times, the type of user, and the duration of the bike ride. 8531 data points were removed from the analysis because of missing values and incorrect ages. The remaining 174,881 bike rides were analyzed.
 
-The dataset was provided by udacity and was sourced from the Ford GoBike System Data website (originally [here](https://www.bikeshare.com/data/), although that website is now offline.)
+The dataset was provided by Udacity and was sourced from the Ford GoBike System Data website (originally [here](https://www.bikeshare.com/data/), although that website is now offline.)
 
 
 ## Summary of Findings
 
-The members were 75% male, 23% female and 2% other. 91% were subscribers; 9% were customers. The median age of members is 32. 50% of the riders are aged between 27 and 39.
+The members were 75% male, 23% female, and 2% other. 91% were subscribers; 9% were customers. The median age of members is 32. 50% of the riders are aged between 27 and 39.
 
-The stations are clustered around three locations in the San Francisco area: The co-ordinates of these three locations are (37.32, -121.9); (37.77, -122.4) and (37.85, -122.25).
+The stations are clustered around three locations in the San Francisco area: The coordinates of these three locations are (37.32, -121.9); (37.77, -122.4) and (37.85, -122.25).
 
 Compared to a weekday, there were over 50% fewer rides made on Saturday or Sunday.  For example, 19% for Thursday vs. 8% for a Saturday. The time of day shows a bimodal distribution, with the most rides being taken during commuting hours. The highest usages were between 7:30 a.m.⁠ – ⁠09:30 a.m. and 4:30 p.m.⁠ – ⁠06:30 p.m.
 
@@ -48,13 +48,13 @@ Using bar charts, I show the distribution of ride days and start times and, usin
 
 Comparing weekends and weekdays, I also illustrate the distribution of the rider ages of males/females (box plots), and the ride duration times (violin plots). 
 
-I thought that, to finish the presentation, it would be interesting to show some of the other differences between the weekdays and the weekends so that it is clear how much more information can be extracted from a simple dataset. However, feedback from an audience member suggested that this was needlessly confusing, so I removed this section. Following feedback, I also increased the plot and font sizes to make the slides easier to read during a presentation (especially important for projected text).  
+To finish the presentation I thought that it would be interesting to show some of the other differences between the weekdays and the weekends so that it is clear how much more information can be extracted from a simple dataset. However, feedback from an audience member suggested that this was needlessly confusing, so I removed this section. Following feedback, I also increased the plot and font sizes to make the slides easier to read during a presentation (especially important for projected text).  
 
 &nbsp;  
 
 ----------------------------
 
-N.B. The original instructions provided by udacity for creating a slideshow no longer work.
+N.B. The original instructions provided by Udacity for creating a slideshow no longer work.
 The following should be used instead:
 ```
 jupyter nbconvert slidedeck.ipynb --to slides --no-prompt --TemplateExporter.exclude_input=True --ServePostProcessor.port=8001 --post serve
