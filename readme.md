@@ -61,3 +61,22 @@ The following should be used instead:
 jupyter nbconvert slidedeck.ipynb --to slides --no-prompt --TemplateExporter.exclude_input=True --ServePostProcessor.port=8001 --post serve
 ```
 
+## Key Figures
+
+<p align="center">
+  <img src="Figure1_Age.PNG" />
+</p>
+<p align="center">
+  <img src="Figure2_Day.PNG" />
+</p>
+<p align="center">
+  <img src="Figure2_Day.PNG" />
+</p>
+<p align="center">
+  <img src="Figure3_Time.PNG" />
+</p>
+<p align="center">
+  <img src="Figure4_Duration.PNG" />
+</p>
+
+
