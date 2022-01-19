@@ -69,9 +69,6 @@ jupyter nbconvert slidedeck.ipynb --to slides --no-prompt --TemplateExporter.exc
   <img src="Figure2_Day.PNG" />
 </p>
 <p align="center">
-  <img src="Figure2_Day.PNG" />
-</p>
-<p align="center">
   <img src="Figure3_Time.PNG" />
 </p>
 <p align="center">
