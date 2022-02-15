@@ -11,7 +11,7 @@ The following files are included:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`slidedeck.ipynb` The jupyter notebook used to produce the above.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`slidedeck.html` The jupyter notebook in html format.  
 
-
+Note: The slide deck presentation can be viewed in your web browser (use arrow keys for control) [here](https://quantumphysicist.github.io/Ford-GoBike-Trip-Data-Analysis/slideshow.html#/).
   
 ## Dataset
 
