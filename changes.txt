@@ -1,0 +1,7 @@
+Changes that need to be made
+
+exploration.ipynb
+
+Median birth year: 1987 
+
+Median age should say 32 yrs throughout (and not 34 years, which is the mean age)
