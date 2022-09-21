@@ -22,6 +22,8 @@ The dataset was provided by Udacity and was sourced from the Ford GoBike System 
 
 ## Summary of Findings
 
+Please see the key figures at the bottom.
+
 The members were 75% male, 23% female, and 2% other. 91% were subscribers; 9% were customers. The median age of members is 32. 50% of the riders are aged between 27 and 39.
 
 The stations are clustered around three locations in the San Francisco area: The coordinates of these three locations are (37.32, -121.9); (37.77, -122.4) and (37.85, -122.25).
